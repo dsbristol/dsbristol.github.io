@@ -1,7 +1,13 @@
-# Welcome to Data Science @ the School of Statistical Sciences, Universirt of Bristol!
+# Data Science @ the School of Statistical Sciences
+
+## University of Bristol
 
 You may be interested in the [Institute for Statistical Science](https://www.bristolmathsresearch.org/statistical-science/).
 
 Or the [Data Science Toolbox](dsbristol.github.io/dst) page.
 
 Or [Daniel Lawsons](https://danjlawson.github.io) github page. 
+
+### Contact:
+
+Managed by [Daniel Lawson](http://www.maths.bristol.ac.uk/~madjl/).
