@@ -1,6 +1,6 @@
 # Data Science @ the [Institute for Statistical Science](https://www.bristolmathsresearch.org/statistical-science/), [University of Bristol](bristol.ac.uk/)
 
-![What is Data Science?](_data/01.1-Intro_Data_Science_VD.png)
+![What is Data Science?](/_data/01.1-Intro_Data_Science_VD.png)
 
 [dsbristol.github.io](dsbristol.github.io) exists to host to the more applied Data Science activities in the Institute, especially:
 
@@ -10,19 +10,18 @@
 
 * How is data science used in practice?
 
-![Data Science](_data/09-ClassificationDiagram.png)
+![Data Science](/_data/09-ClassificationDiagram.png)
 
 * How do we explore the performance
 
-![Support Vector Machines](_data/_data/svm.png)
+![Support Vector Machines](/_data/svm.png)
 
 ### Data Science links
 
-* [Compass - EPSRC Centre for Doctoral Training in Computational Statistics and Data Science](http://www.bristol.ac.uk/cdt/compass/)
-* [dsbristol.github.io](dsbristol.github.io), developed by
-* [Daniel Lawson](http://www.maths.bristol.ac.uk/~madjl/) who is part of the
-* [Institute for Statistical Science](https://www.bristolmathsresearch.org/statistical-science/).
+* The page maintainer [Daniel Lawson](http://www.maths.bristol.ac.uk/~madjl/)'s personal website.
 * [Daniel Lawson's personal github page](https://danjlawson.github.io).
+* The [Institute for Statistical Science](https://www.bristolmathsresearch.org/statistical-science/) website.
+* The Institute hosts [Compass](http://www.bristol.ac.uk/cdt/compass/) - EPSRC Centre for Doctoral Training in Computational Statistics and Data Science.
 
 ## Wider Data Science Activity at the University of Bristol
 
