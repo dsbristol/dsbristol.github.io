@@ -1,6 +1,6 @@
 # Data Science @ the [Institute for Statistical Science](https://www.bristolmathsresearch.org/statistical-science/), [University of Bristol](bristol.ac.uk/)
 
-![What is Data Science?](/_data/01.1-Intro_Data_Science_VD.png)
+![What is Data Science?](/images/01.1-Intro_Data_Science_VD.png)
 
 [dsbristol.github.io](dsbristol.github.io) exists to host to the more applied Data Science activities in the Institute, especially:
 
@@ -10,11 +10,11 @@
 
 * How is data science used in practice?
 
-![Data Science](/_data/09-ClassificationDiagram.png)
+![Data Science](/images/09-ClassificationDiagram.png)
 
 * How do we explore the performance
 
-![Support Vector Machines](/_data/svm.png)
+![Support Vector Machines](/images/svm.png)
 
 ### Data Science links
 
