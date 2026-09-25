@@ -1,6 +1,4 @@
-# Data Science @ the [Institute for Statistical Science](https://www.bristolmathsresearch.org/statistical-science/), [University of Bristol](bristol.ac.uk/)
-
-Most visitors are looking for [The Data Science Toolbox Course Website](https://dsbristol.github.io/dst)
+Most visitors are looking for [The Data Science Toolbox Course Website](https://dsbristol.github.io/dst).
 
 ### Data Science links
 
